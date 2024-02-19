@@ -7,11 +7,11 @@ tags: [DBS101]
 ### Topic : Database Users and Database Administrators
 ----
 
-Since the introduction of Magnetic tape on 1951 which was used for recording digital data the recording and storing  of data continued till this date. As a result, the introduction of database management system came into action. Therefor, the flipped class toke place to let students to know how its managed and its type of users.
+We discussed that since the introduction of Magnetic tape on 1951 (used for recording digital data), the recording and storing  of data continued till this date. As a result, the introduction of database management system came into action. Therefor, we discussed about how its managed and its type of users in the 2 hour duration.
 
-Through the discussion made within the groups of 6 membersand with reference to https://www.codingninjas.com/studio/library/functions-of-dba a conclusion was drawn stating that a Database Administrator is an IT professional role within a Computer System Administration who is in charge of creating and maintaining the security for a secure database. They are almost invole in all kinds of  work like the planning, designing, ,implementing and maintaining of the database system. Moreover, the types of Database Users were also discussed.
+Through the discussion we made within the groups of 6 members and with reference to codingninja website we came to the conclusion that a Database Administrator is an IT professional role within a Computer System Administration who is in charge of creating and maintaining the security for a secure database. They are almost invole in all kinds of  work like the planning, designing, ,implementing and maintaining of the database system. Moreover, the types of Database Users were also discussed.
 
-There are mainly seven types of database users in DBMS with the reference to this website https://www.geeksforgeeks.org/different-types-of-database-users/ and they are categorized based up on their interaction with the database.
+We concluded that there are mainly seven types of database users in DBMS through the reference to geeksforgeeks website and they are categorized based up on their interaction with the database.
 1. Naive / Parametric End Users: They are the users who use DBMS to get the desired result without actually knowing that they are using the DBMS to performe the task. 
 2. System Analyst: They are user who analyzes the requirements of Naive users to ensure that the systems they develop meet the needs of the users.
 3. Sophisticated Users: They are the users who are familiar with the database to the point that they can develop their own database applications and they interact the database by writing SQL queries directly through the query processor. 
