@@ -4,7 +4,7 @@ categories: [DAM101, Unit 1 Jounal]
 tags: [DAM101]
 ---
 
-### Topic : Unit I: Introduction to Neural Networks and Deep Learning
+### Topic : Unit I: Introduction to Neural Networks and Deep Learning and learnings 
 
 ----
 Welcome! This will be the starting of my journey of noting what I am learning in the DAM101 module. Before starting the real lesson we learned about what is AI and the history of AI like how it was found by Arthur Samuel in 1957 when developed a program to play checkers against.Then we learned the difference between Machine learning and Deep learning. After that we learned that ML are trained by feeding the data that are recorded. 
