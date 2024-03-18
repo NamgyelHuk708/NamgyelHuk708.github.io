@@ -22,16 +22,16 @@ Aggregate functions in SQL are like handy tools for summarizing and analyzing da
 
 **Examples**
 1. Ranking : For example, To rank employees by salary, we can use the RANK() function. The query will rank the employees based on their salary in descending order.
-![alt text](ranking.png)
+![alt text](../ranking.png)
 
 2. Windowing: For example, To calculate a running total of order totals, we can use the SUM() function with the OVER() clause. The query calculates a running total of order totals, ordered by OrderID.
-![alt text](windowing.png)
+![alt text](../windowing.png)
 
 3. Pivoting: For example, We can pivots sales data by product, showing sales for each product as separate columns.
-![alt text](pivoting.png)
+![alt text](../pivoting.png)
 
 4. Rollup: For example, To generate subtotals and grand totals for sales by year, we can use the ROLLUP operator. The query generates subtotals for each year and a grand total. 
-![alt text](rollup.png)
+![alt text](../rollup.png)
 
 5. Cube: For example, To generate subtotals for all combinations of years and products, we can use the CUBE operator. The query generates subtotals for each combination of year and product, as well as grand totals.
-![alt text](cube.png)
+![alt text](../cube.png)
