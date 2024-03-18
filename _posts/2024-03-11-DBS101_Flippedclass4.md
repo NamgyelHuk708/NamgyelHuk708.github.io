@@ -14,7 +14,7 @@ Aggregate functions in SQL are like handy tools for summarizing and analyzing da
 
 | Aggregate function | Description | Function |
 | ----------- | ----------- | ----------- |
-| Ranking |  ordering rows within a partition of a result set | RANK(), DENSE_RANK(), and ROW_NUMBER() | SUM(), AVG(), MIN(), MAX(), and COUNT(), are used with the OVER() |
+| Ranking |  ordering rows within a partition of a result set | RANK(), DENSE_RANK(), and ROW_NUMBER() | 
 | Windowing | a technique that allows user to perform calculations across a set of rows that are related to the current row | SUM(), AVG(), MIN(), MAX() and COUNT() |
 | Pivoting |  transforming rows into columns to create a more readable format | combination of aggregate functions and the CASE statement |
 | Rollup |  a type of grouping that creates subtotals and grand totals | ROLLUP and GROUP BY |
