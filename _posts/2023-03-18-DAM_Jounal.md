@@ -1,6 +1,6 @@
 ---
-Title: DAM101 Jounal 1
-categories: [DAM101, Jounal1]
+Title: DAM101 Jounal_1
+categories: [DAM101, Jounal_1]
 tags: [DAM101]
 ---
 
