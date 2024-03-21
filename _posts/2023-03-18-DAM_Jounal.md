@@ -26,6 +26,7 @@ Its programed in a way that it has the ability to solve problems and have insigh
 AI are able to do what they are doing(mimicing Human) because they Learn from the data they were fed. Data can be either structure or unstructed data that are either stored in form of text, image, table, graph or numerical values.
 
 **Difference between ML and Deep learning**
+
 | Machine Learning | Deep Learning |
 | ----------- | ----------- |
 | It was coined in 1959 by Arthur Samuel | It was introduced by Rina Dechter in 1986 |
