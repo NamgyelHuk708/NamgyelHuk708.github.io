@@ -33,7 +33,7 @@ AI are able to do what they are doing(mimicing Human) because they Learn from th
 | Relies on mathematical algorithms to find patterns in data. | Uses programmable neurons inspired by the brain. |
 | Handles large datasets (hundreds of thousands of data points). | Handles massive datasets (billions of data points). |
 | Effective for simpler tasks like classification. | Effective for complex tasks like game development. |
-| Process of Machine learing![alt text](../ML.png) | Process of Deep learning![!\[alt text\](../ML.png)](../DL.png) |
+| ![alt text](../ML.png) | ![!\[alt text\](../ML.png)](../DL.png) |
 
 
 ## Session 2 : Introduction to Neural Network 
