@@ -21,6 +21,7 @@ Think of 1NF as the basic rule for organizing our data. Each piece of informatio
  It stops us from having messy, jumbled-up data and makes it easier to search and manage our information.  
  
  For example
+ 
  ![alt text](../NF1.png)
 
  Relation STUDENT in table 1 is not in 1NF because of multi-valued attribute STUD_PHONE. Its decomposition into 1NF has been shown in table 2.
@@ -37,11 +38,13 @@ To be in second normal form, a relation must be in first normal form and relatio
 It prevents any unnecessary connections between different pieces of data, keeping things clean and clear.
 
 For example
+
 ![alt text](../NF21.png)
 
 The Location table possesses a composite primary key cust_id, storeid. The non-key attribute is store_location. In this case, store_location only depends on storeid, which is a part of the primary key. Hence, this table does not fulfill the second normal form.
 
 To bring the table to Second Normal Form, we need to split the table into two parts. This will give the below tables
+
  ![alt text](../2NF2.png)
  
  As we have removed the partial functional dependency from the location table, the column store_location entirely depends on the primary key of that table, storeid.
@@ -57,11 +60,13 @@ A relation is said to be in third normal form, if we did not have any transitive
  It stops any sneaky connections between bits of data that could cause confusion or mistakes.
 
  For example
+
 ![alt text](../3NF1.png)
 
 In the above student table, stu_id determines subid, and subid determines sub. Therefore, stu_id determines sub via subid. This implies that the table possesses a transitive functional dependency, and it does not fulfill the third normal form criteria.
 
 Now to change the table to the third normal form, we need to divide the table as shown below.
+
 ![alt text](../3NF2.png)
 
 As we can see in both the tables, all the non-key attributes are now fully functional, dependent only on the primary key.
