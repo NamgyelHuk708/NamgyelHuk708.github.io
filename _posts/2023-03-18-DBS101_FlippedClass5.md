@@ -1,7 +1,7 @@
 ---
-Title: DAM101 Jounal_5
-categories: [DAM101, Jounal_5]
-tags: [DAM101]
+Title: DBS101 Flipped Class 6
+categories: [DBS101, Flipped_Class6]
+tags: [DBS101]
 ---
 
 # Topic : Introduction to Normalization
