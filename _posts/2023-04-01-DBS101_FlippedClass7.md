@@ -1,6 +1,6 @@
 ---
-Title: DBS101 Flipped Class 5
-categories: [DBS101, Flipped_Class5]
+Title: DBS101 Flipped Class 7
+categories: [DBS101, Flipped_Class7]
 tags: [DBS101]
 ---
 
