@@ -11,7 +11,29 @@ tags: [DBS101]
 
 A database is an organized collection of structured data stored and accessed electronically. It is made so that large amounts of data can be quickly retrieved, added, or deleted.
 
+### Main components of database
+The main components of a database are:
+
+- **Tables:** Tables are like spreadsheets where data is organized into rows and columns. Each table stores information about a specific type of thing, like customers or products.
+
+- **Fields:**  Fields are the individual pieces of information within a table, like names, numbers, or dates. Each field has a specific type of data it can hold.
+
+- **Records:** Records are like entries in a table that contain all the information about a single thing, such as a customer's details or a product's specifications.
+
+- **Primary Key:** A primary key is a special field in a table that uniquely identifies each record. It helps to ensure that each piece of data is distinct and can be easily found.
+
+- **Foreign Key:** A foreign key is a field in one table that links to the primary key in another table. This helps to create relationships between different sets of data.
+
+- **Queries:**  Queries are requests for specific information from a database. They are used to search for and retrieve data that meets certain criteria.
+
+- **Indexes:**  Indexes are like a table of contents for a database. They help to speed up searches by pointing to where specific data is located.
+
+- **Views:** Views are customized ways of looking at data in a database. They show a subset of information in a particular format without altering the original data.
+
 ### Building a Relational Database From Scratch
+
+![alt text](../flipped7.jpg)
+
 Building a relational database from scratch requires careful planning and consideration of various factors. Important procedures to be followed and the significance of each step in the process:
 
 **Purpose and Requirements Analysis:**
