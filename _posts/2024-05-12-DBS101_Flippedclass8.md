@@ -7,7 +7,7 @@ tags: [DBS101]
 # Topic :  Indexing
 ----
 Indexing in terms of data, is a technique used to speed up the process of retrieving data. Indexes are used to quickly locate data without having to search every row in a database table every time a database table is accessed. 
-## Indexing of Spatial and Temporal Data
+## Indexing of Spatial and Temporal Data.
 
 **Spatial data** refers to info with a location aspect, like maps or graphs, while **temporal data** involves time-related details, such as events or changes over time. Combining these lets us study how things move or change in both space and time.
 
