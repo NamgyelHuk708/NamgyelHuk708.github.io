@@ -1,6 +1,6 @@
 ---
-Title: DAM101 Jounal_3
-categories: [DAM101, Jounal_3]
+Title: DAM101 Introduction
+categories: [DAM101, UnitThree-1]
 tags: [DAM101]
 ---
 
