@@ -1,6 +1,6 @@
 ---
-Title: DAM101 Jounal_1
-categories: [DAM101, Jounal_1]
+Title: DAM101 Introduction to AI and DL
+categories: [DAM101, Unit1]
 tags: [DAM101]
 ---
 
