@@ -54,6 +54,8 @@ The ARIES algorithm's strength lies in its efficient and robust approach to data
 ## Shadow Paging
 Shadow Paging is a recovery technique used in database management systems to recover the database after a system failure or crash. It is based on the concept of "Cut-off-Place" updating, where updates are made to a separate, shadowed copy of the database pages instead of the actual database.
 
+![alt text](<../shadow paging 12.png>)
+
 ### Key Aspects of Shadow Paging
 1. Page-based Database Structure:
 
