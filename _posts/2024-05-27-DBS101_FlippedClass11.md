@@ -41,6 +41,9 @@ Each protocol has its own unique way of delivering concurrency control:
 1. **Two-phase Locking (2PL)**
 
 - Divides the locking process into two  phases: growing(acquaring the locks till all locks are obtained) and shrinking(releases the locks that was acquired).
+
+![alt text](<../lock phase.png>)
+
 - Ensures serializability by controlling the acquisition and release of locks
 
 2. **Timestamp Ordering (TO)**
