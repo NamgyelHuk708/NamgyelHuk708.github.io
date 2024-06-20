@@ -1,5 +1,5 @@
 ---
-Title: Web101&Web102 Final_Journal 
+Title: WEB Final_Journal 
 categories: [WEB, Final_Journal]
 tags: [WEB]
 ---
