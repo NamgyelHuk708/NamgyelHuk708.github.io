@@ -201,6 +201,17 @@ During the first week, we focused on developing the homepage for Tellonym.
 **Backend Development**
 
 1. **Endpoints**: Created endpoints to manage user data and interactions.
+- /tells = send tells (Chimi did this)(POST)
+- /users/:userId/username = Get the user name of the specific id(GET)
+- /tells/:userId = retrieve the tells and reply that have status 1 (GET)
+- /tells/:tellId/react = react the tells (PATCH)
+- /tells/:tellId/comment = react the comment (PATCH)
+- /tells/:tellId/counts = count of the react and comment (GET)
+
+**Challenges** 
+- Storing the image in the db and not knowing how to display it on the page. 
+- Connecting the frontend with the endpoints of the backend 
+
 
 ---
 
