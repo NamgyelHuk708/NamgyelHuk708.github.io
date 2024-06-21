@@ -150,6 +150,13 @@ During the first week, we focused on developing the homepage for Tellonym.
 
 2. **Real-Time Updates**: Allows immediate updates for tells, likes, and comments without refreshing the page.
 
+**Challenges**
+It took a long time to complete the frontend part of the application and because of that we couldn't connect to the server part of the application. We dindn't regret focusing more on the frontend part because we learn alot about the components and all.
+
+**Experiences**:
+
+After doing the final project now we have gained confidence on building the asthetic interface. It feels like we can make any other frontend part of any application.
+
 ---
 
 ## Chats
@@ -162,7 +169,7 @@ During the first week, we focused on developing the homepage for Tellonym.
 
 **Frontend Features**
 
-1. **Message Display**: Messages are shown in chat bubbles, with user messages on the right and received messages on the left.
+1. **Message Display**: Messages are shown in chat bubbles, with user messages on the right.
 
 2. **Input and Send Button**: Users can type messages and send them using a pink send button. Messages appear instantly due to real-time updates.
 
@@ -182,6 +189,17 @@ During the first week, we focused on developing the homepage for Tellonym.
 
 3. **Sending a Message**: Messages are sent to the backend server, saved to the database, and displayed in the chat room.
 
+**Challenges**
+- Did not have any pior knowledge on about connecting to different database like mongodb and postgres making it difficult to start resulting to wastage of 2 days.
+- Had to ajust to showing of just the demo cause authentication to idetify a particular user was not successful.
+
+
+**Experienced**
+- connecting to mongodb
+- How websocket works
+- Using reusable components, using shardcn, using taildwindcss and using react.
+- Got more knowledge in designing the backend endpoints for the chats
+- Designing the schema in mongodb
 ---
 
 ## Profile (Public and Private)
@@ -194,9 +212,9 @@ During the first week, we focused on developing the homepage for Tellonym.
 
 **Frontend Features**
 
-1. **Private Profile**: Shows user profile details and allows replying to tells.
+1. **Private Profile**: Shows user profile details and their tells with their replies. Gives the guest to react, send and message the user.
 
-2. **Public Profile**: Displays user information and allows following or messaging.
+2. **Public Profile**: Displays user information and allows following,messaging and sending tells anonymously.
 
 **Backend Development**
 
@@ -212,12 +230,32 @@ During the first week, we focused on developing the homepage for Tellonym.
 - Storing the image in the db and not knowing how to display it on the page. 
 - Connecting the frontend with the endpoints of the backend 
 
+**Experienced**
+- Arranging the components and effectively making use of usuable components like shardcn and our own designed components.
+- Using tailwind css, routing and using react.
+- Defining the endpoints by looking at the frontend.
+- Got exposed on what its like to be a full stack developer.
 
 ---
 
-## Followers and Following
+## Private Tells
 
 **Frontend Development**
+
+1. **UI Design**: Designed the UI for the tells to be displye and making a reply button to reply to the tells.
+
+**Backend Features**
+
+1. **CRUD Functionality**: Implemented endpoints to retrive tells and to reply the tells making its status 1 (ready for it to be dispalyed).\
+
+**Challenges**
+- using the reasualbe components.
+- designing the backend endpoints to retrive the tells anoymously and to reply it.
+
+**Experienced**
+- More comfortable in implementing the taildwindcss, shardcn and react.
+- More comfortable in designing the backend endpoints 
+
 
 1. **UI Design**: Designed the UI for follower and following pages.
 
@@ -228,24 +266,33 @@ During the first week, we focused on developing the homepage for Tellonym.
 ---
 
 **Challenges**
+- Hard time using components like shadcn/ui, and react components 
+- Face merge error and clashes in code as we are working on same repo 
+- Hard time coding endpoints
+- Difficulty in coming up with a a schema  
+- Designing the endpoints was challenging as i have to consider the foregin keys.
+
+**Experienced**
+- Better performance in implementing talindwindcss, using shardcn and using react components and icons.
+- More proficient in making endpoints for relational schemas.
+- Got more knowledge in using git collab repositories.
+---
+
+## Challenges and Solutions as Team
 
 1. **Initial Setup**: Struggled with initial setup and understanding of JWT but resolved with research and guidance from the lecturer.
 
----
+2. **Using Reusable Components**: Initially struggled but eventually mastered the use of reusable components.
 
-## Challenges and Solutions
+3. **UI Design**: Faced difficulties mimicking Tellonym’s UI but became more confident with Tailwind CSS and React Icons.
 
-1. **Using Reusable Components**: Initially struggled but eventually mastered the use of reusable components.
+4. **Database Integration**: Had trouble connecting two databases (MongoDB and Postgres) but resolved to use MongoDB.
 
-2. **UI Design**: Faced difficulties mimicking Tellonym’s UI but became more confident with Tailwind CSS and React Icons.
+5. **WebSocket Implementation**: Needed to complete authentication first; worked on demo implementation.
 
-3. **Database Integration**: Had trouble connecting two databases (MongoDB and Postgres) but resolved to use MongoDB.
+6. **Frontend and Backend Connection**: Many team members faced difficulties connecting the frontend and backend effectively.
 
-4. **WebSocket Implementation**: Needed to complete authentication first; worked on demo implementation.
-
-5. **Frontend and Backend Connection**: Many team members faced difficulties connecting the frontend and backend effectively.
-
-6. **Collaboration**: Managed collaborative repositories and used new technologies through effective communication.
+7. **Collaboration**: Managed collaborative repositories and used new technologies through effective communication.
 
 ---
 
