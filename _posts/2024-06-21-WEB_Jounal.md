@@ -100,7 +100,7 @@ The consultation played a vital role in guiding the Tellonym clone project, offe
 
 Below is the **Schema Design** and the **Project Overview** of our project.
 
-![schema](/assets/img/schema.png)
+![schema](../WEB.jpg)
 
 ## Authentication
 
