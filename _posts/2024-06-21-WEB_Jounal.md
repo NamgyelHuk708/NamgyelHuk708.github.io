@@ -199,7 +199,7 @@ After doing the final project now we have gained confidence on building the asth
 - How websocket works
 - Using reusable components, using shardcn, using taildwindcss and using react.
 - Got more knowledge in designing the backend endpoints for the chats
-- Designing the schema in mongodb
+- Designing the schema in mongodb.
 ---
 
 ## Profile (Public and Private)
